@@ -1,0 +1,32 @@
+Old-Guard animations
+
+Animations should only be strung together TO to LINK
+For example, animation 1 is LINK aimmed position and is TO unaimmed position
+animation 2 can only be played directly after animation 1 if it's LINK is unaimmed position
+The LINK of an animation has to be the same and the TO of the previous animation
+
+aimmed positions TO's:
+all reloads
+Old-Guard shooting
+aimming animation
+all bayonet animations
+
+all reloads
+LINK: aimmed position
+TO: aimmed position
+
+shooting
+LINK: aimmed position
+TO: aimmed position
+
+Old-guard stagger
+LINK: aimmed position
+TO: unaimmed position
+
+aimming animation
+LINK: unaimmed position
+TO: aimmed position
+
+deaimming animation
+LINK: aimmed position
+TO: unaimmed position
